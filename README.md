@@ -1,10 +1,12 @@
 # CuteUI
 .NET and Compact Framework customizable visual components with touchscreen support.   
 **Not release version, currently in development**
+
 ## Button
 * Background color gradient support
 * Border color and thickness support
-* Double-buffered
+* Double-buffered   
+
 ## List
 * Container with rows that contains various cells with text and/or images
 * Touchscreen gestures support (slide to scroll)
